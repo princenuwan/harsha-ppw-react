@@ -5,7 +5,7 @@ const Footer = () => (
     <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
       <div>
         <p className="font-serif text-lg font-semibold text-foreground">
-          HCK<span className="text-primary">.</span>
+          HD<span className="text-primary">.</span>
         </p>
         <p className="text-muted-foreground text-sm mt-1">Nutrition & Dietetics Professional</p>
       </div>
