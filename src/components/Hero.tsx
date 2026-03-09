@@ -23,7 +23,7 @@ const Hero = () => {
             <FadeIn delay={100}>
               <h1 className="font-serif text-5xl md:text-6xl lg:text-7xl font-bold text-foreground leading-tight mb-6">
                 Harsha<br />
-                <span className="text-gradient-sage">Chathurani</span>
+                <span className="text-gradient-sage">Dissanayake</span>
               </h1>
             </FadeIn>
             <FadeIn delay={200}>

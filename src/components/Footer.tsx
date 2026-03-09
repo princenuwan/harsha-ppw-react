@@ -23,7 +23,7 @@ const Footer = () => (
       </div>
 
       <p className="text-muted-foreground text-xs">
-        © {new Date().getFullYear()} Harsha Chathurani. All rights reserved.
+        © {new Date().getFullYear()} Harsha Dissanayake. All rights reserved.
       </p>
     </div>
   </footer>

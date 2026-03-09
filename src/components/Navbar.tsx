@@ -55,7 +55,7 @@ const Navbar = () => {
     >
       <nav className="max-w-7xl mx-auto flex items-center justify-between px-6 md:px-12 py-4">
         <Link to="/" onClick={() => handleNavClick("/")} className="font-serif text-xl font-semibold text-foreground tracking-wide">
-          HCK<span className="text-primary">.</span>
+          HD<span className="text-primary">.</span>
         </Link>
 
         {/* Desktop */}
